@@ -102,9 +102,18 @@ body {
 .button.be {
     border: 1px solid #000;
     background: #E4E4E4;
+    margin-bottom: 15px;
 }
 
 .button.git {
-    
+    margin-bottom: 15px;
     background: #3D3D3D;
+}
+
+.button.tg {
+    background: #0088CC;
+}
+
+.button.vk {
+    background: #45668E;
 }
