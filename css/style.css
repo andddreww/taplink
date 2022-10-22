@@ -73,3 +73,38 @@ body {
     line-height: 17px;
     color: rgba(0, 0, 0, 0.5);
 }
+
+.card {
+    background: #FFFFFF;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    margin: 20px 0;
+    padding: 15px;
+}
+.buttons {
+    display: flex;
+    justify-content: space-between;
+    max-width: 260px;
+    margin: auto;
+    gap: 15px;
+}
+
+.button {
+    background-color: #000;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 50px;
+    width: 100%;
+    border-radius: 6px;
+}
+
+.button.be {
+    border: 1px solid #000;
+    background: #E4E4E4;
+}
+
+.button.git {
+    
+    background: #3D3D3D;
+}
