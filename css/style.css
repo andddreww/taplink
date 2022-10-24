@@ -27,7 +27,7 @@ body {
     padding: 40px 40px 145px;
     color: #fff;
     background: linear-gradient(180deg, rgba(0, 0, 0, 0.5) 0%, rgba(0, 0, 0, 0.30) 100%), url('../img/header-bg.jpeg') no-repeat center / cover;
-    border-radius: 20px 20px 40% 40%
+    border-radius: 20px 20px 40% 40%;
 }
 
 .hello {
